@@ -17,14 +17,14 @@
 
 /* Navbar */
 
-.btn-primary,
-.btn-primary:hover,
-.btn-primary:active,
-.btn-primary:visited {
+.btn,
+.btn,
+.btn,
+.btn {
     background-color: var(--main-color);
-    height: 45px;
+    
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
+    
 }
 .mt-3{
     padding-right: 2.5rem;
